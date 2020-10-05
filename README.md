@@ -22,3 +22,4 @@ You can donate money to the project through
 - [Paypal](https://paypal.me/pellegrinoprevete), 
 - DOGE (at this [address](DAVpBtEWkAdZKk5DNbfUn9weKagyfwga9Q))
 - Ethereum mining (just execute the *donate* cell in the notebook).
+-
